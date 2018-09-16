@@ -1,1 +1,1 @@
-# cuddle-rybot
+# cuddly-rybot
